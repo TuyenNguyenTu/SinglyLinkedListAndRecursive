@@ -1,12 +1,12 @@
-###Data Structure And Algorithms
-##Single Linked List
-##using C#
+# Data Structure And Algorithms
+## Single Linked List
+## using C#
 
-###Advantages
+## Advantages
 -Kích thước động điều này không tồn tại ở mảng
-###Defect
+## Defect
 -Truy cập tuần tự: dựa vào thằng trước đó
 -Tốn lượng bộ nhớ lưu trữ con trỏ
 -Không thân thiện với cache
-##Recursive
+## Recursive
 
